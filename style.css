@@ -17,7 +17,8 @@ body{
     width: 100%;
     padding: 10px 20px 20px;
     border-radius: 12px;
-    background: #fff;
+    background: url('image/photo.jpg');
+    opacity: 0.4;
     box-shadow: 0 5px 10px rgba( 0, 0, 0, 0.05);
 }
 .display{
@@ -47,5 +48,5 @@ body{
     transform: scale(0.99);
 }
 .operator{
-    color: #2f9fff;
+    color: #0a3Aff;
 }
